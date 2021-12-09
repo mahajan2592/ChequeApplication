@@ -1,4 +1,4 @@
-# Cheque Application to convert Cheque Amount Number into Words
+## Web Application to convert number into words
 
 This is a Web Application that receives two inputs (Name on Cheque, Cheque Amount) from the web form, submits them to the Web service which returns the output with name on cheque and amount in words.
  
@@ -8,7 +8,7 @@ This is a Web Application that receives two inputs (Name on Cheque, Cheque Amoun
  
  ![image](https://user-images.githubusercontent.com/95884003/145471350-cc37dffc-dc24-4c5a-ad66-5a9d1fa7f50e.png)
 
-## Prerequisite before running the application-:
+### Prerequisite before running the application-:
 	Web Service needs to be started before pressing F5 to run the application
 	Go to the Cheque Service Application start the service by selecting the debug option
 https://localhost:44350/ChequeWritingWebService.asmx
