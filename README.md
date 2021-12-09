@@ -1,4 +1,4 @@
-## Web Application to convert number into words
+##   Web Application to Convert Number into Words
 
 This is a Web Application that receives two inputs (Name on Cheque, Cheque Amount) from the web form, submits them to the Web service which returns the output with name on cheque and amount in words.
  
