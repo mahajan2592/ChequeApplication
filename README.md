@@ -15,7 +15,12 @@ This is a Web Application that receives two inputs (Name on Cheque, Cheque Amoun
 1.	Set **ChequeWritingApp** as the Start Project
 2.	Web Service needs to be started before pressing F5 to run the application
 3.	Go to the **ChequeService** Application start the service by selecting the debug option
-4.	https://localhost:44350/ChequeWritingWebService.asmx
+	
+	OR
+	
+	Go to the **ChequeWritingApp** -> **Connected Services** -> **ChequeWritingService** and right click and select **Update Service Reference**
+
+4.	Service with this Url should be started https://localhost:44350/ChequeWritingWebService.asmx
 
 
 
