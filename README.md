@@ -8,12 +8,15 @@ This is a Web Application that receives two inputs (Name on Cheque, Cheque Amoun
  
  ![image](https://user-images.githubusercontent.com/95884003/145471350-cc37dffc-dc24-4c5a-ad66-5a9d1fa7f50e.png)
 
-### Prerequisite before running the application-:
-	Web Service needs to be started before pressing F5 to run the application
-	Go to the Cheque Service Application start the service by selecting the debug option
-https://localhost:44350/ChequeWritingWebService.asmx
 
- 
+
+ ### Prerequisite before running the application-:
+
+1.	Set **ChequeWritingApp** as the Start Project
+2.	Web Service needs to be started before pressing F5 to run the application
+3.	Go to the **ChequeService** Application start the service by selecting the debug option
+4.	https://localhost:44350/ChequeWritingWebService.asmx
+
 
 
 ## How to Run This Application.
